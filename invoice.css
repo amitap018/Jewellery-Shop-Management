@@ -1,0 +1,10 @@
+/* CSS styles for the invoice */
+/* Customize these styles as per your requirements */
+
+@media print {
+    /* Hide the print button when printing */
+    button {
+      display: none;
+    }
+  }
+  
